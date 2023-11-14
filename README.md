@@ -58,7 +58,7 @@
 </h2>
 
 <p align="center" >
-    <a href="https://heroku.com/deploy?template=https://github.com/DARK-DEVIL-BOTZ/DDev-BOT">
+    <a href="https://heroku.com/deploy?template=https://github.com/kkara9009/DDev-BOT">
     <img title="DDEV ON HEROKU" src="https://www.herokucdn.com/deploy/button.png" width="189px" alt="Deploy on Heroku" >
     </a>
 </p>
